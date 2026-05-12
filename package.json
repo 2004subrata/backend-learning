@@ -1,0 +1,17 @@
+{
+  "name": "Backend-learning",
+  "version": "1.0.0",
+  "description": "learning Backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Subrata Mahto",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
